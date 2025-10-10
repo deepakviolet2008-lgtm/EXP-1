@@ -43,20 +43,24 @@ CIRCUIT DIAGRAM:
 CIRCUIT DIAGRAM:
 
 
-a.   KVL:
+a.   KVL:![Uploading WhatsApp Image 2025-10-10 at 18.33.09_d29ee093.jpg…]()
+
  
 
 
-b.  KCL:
+b.  KCL:![Uploading WhatsApp Image 2025-10-10 at 18.33.12_728eefef.jpg…]()
+
  
 
 Calculation:
 
-a.   KVL:
+a.   KVL:![Uploading WhatsApp Image 2025-10-10 at 18.33.13_a5dd6655.jpg…]()
+
  
 
 
-b.  KCL:
+b.  KCL:![Uploading WhatsApp Image 2025-10-10 at 18.33.06_92dbdebd.jpg…]()
+
 
 
 
